@@ -1,0 +1,2 @@
+# Stack-using-Linked-List-in-Python
+A Stack is a linear data structure that follows the LIFO (Last-In-First-Out) principle. Stack has one end. It contains only one pointer top pointer pointing to the topmost element of the stack. Whenever an element is added in the stack, it is added on the top of the stack, and the element can be deleted only from the stack. Here, are three codes in which the top of stack is considered at front end ( with top pointer at front end ) and rear end ( with top pointer at front end and in another code the top pointer is maintained at rear end). 
